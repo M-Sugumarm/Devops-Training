@@ -1,10 +1,10 @@
 pipeline {
     agent any
     environment {
-        DOCKER_IMAGE = "pipeline {
+        DOCKER_IMAGE = pipeline {
     agent any
     environment {
-        DOCKER_IMAGE = "pipeline {
+        DOCKER_IMAGE = pipeline {
     agent any
     environment {
         DOCKER_IMAGE = "sugumar3232/docker-app:latest"  // Change this to your registry
